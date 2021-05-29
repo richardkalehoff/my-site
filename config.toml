@@ -1,0 +1,4 @@
+baseURL = "https://serene-snyder-2ad9b7.netlify.app/"
+languageCode = "en-us"
+title = "Richard Kalehoff"
+theme = "ananke"
